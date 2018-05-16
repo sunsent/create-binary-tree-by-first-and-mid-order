@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "先序中序建二叉树", "先序中序建二叉树\先序中序建二叉树.vcxproj", "{05CE56A6-CB73-4E92-9765-11608180BD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Debug|x64.ActiveCfg = Debug|x64
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Debug|x64.Build.0 = Debug|x64
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Debug|x86.ActiveCfg = Debug|Win32
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Debug|x86.Build.0 = Debug|Win32
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Release|x64.ActiveCfg = Release|x64
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Release|x64.Build.0 = Release|x64
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Release|x86.ActiveCfg = Release|Win32
+		{05CE56A6-CB73-4E92-9765-11608180BD69}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C007BAF-5EA2-4484-AB88-FD66F26791AF}
+	EndGlobalSection
+EndGlobal
